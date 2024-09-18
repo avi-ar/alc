@@ -26,5 +26,5 @@ variable "azs" {
 
 variable "domain_prefix" {
   description = "The cognito client domain"
-  default     = "saaraviapp"
+  default     = "avisapp"
 }
